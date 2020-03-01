@@ -10,6 +10,7 @@
 
 * [Scanbot SDK - Scanner de documentos](https://pub.dev/packages/scanbot_sdk)
 * [liquid_swipe_flutter - Transições líquidas](https://github.com/iamSahdeep/liquid_swipe_flutter)
+* [flutter_expandable_menu - Menu expansível](https://github.com/UttamPanchasara/FlutterExpandableMenu)
 
 # Exemplos
 
