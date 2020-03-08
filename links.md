@@ -8,3 +8,5 @@
 * [Passei Direto - Modelo proposta TCC - UTFPR](https://www.passeidireto.com/arquivo/41147675/modelo-proposta-tcc-utfpr)
 * [Passei Direto - Modelo de TCC - IFMT](https://www.passeidireto.com/arquivo/72526371/gabarito-tcc-sis-internet-2)
 * [Formatador de Referência Bibliográfica](https://referenciabibliografica.net/a/pt-br/ref/abnt)
+* [ZLibray](https://b-ok.cc) Part of Z-Library project. The world's largest ebook library, download de livros.
+* [LibGen](https://libgen.is) download de livros.
