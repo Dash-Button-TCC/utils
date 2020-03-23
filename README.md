@@ -1,6 +1,6 @@
 # Utilitários
 
-Repositório movido para [https://github.com/SAM-TCC/sam-tcc.github.io/tree/master/utils/].
+Repositório movido para [sam-tcc.github.io](https://github.com/SAM-TCC/sam-tcc.github.io/tree/master/utils/).
 
 ---
 
