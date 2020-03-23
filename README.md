@@ -1,5 +1,9 @@
 # Utilitários
 
+Repositório movido para [https://github.com/SAM-TCC/sam-tcc.github.io/tree/master/utils/].
+
+---
+
 Utilitários para o desenvolvimento do trabalho de conclusão de curso.
 
 * [Links úteis](links.md) contendo ferramentas, normas e utilitários para a escrita do TCC.
